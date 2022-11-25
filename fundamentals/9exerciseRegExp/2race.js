@@ -38,4 +38,8 @@ race(['Ronald, Bill, Tom, Timmy, Maggie, Michonne',
     'T(*^^%immy77) ',
     'Ma10**$#g0g0g0i0e',
     'end of race']);
+<<<<<<< HEAD
 console.log('-------------------------------');
+=======
+console.log('-------------------------------');
+>>>>>>> 468b722fc461efa6384fd88bbb33e7ada15e572e
